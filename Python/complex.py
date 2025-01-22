@@ -1,0 +1,10 @@
+a=1+2j
+print(type(a))
+print(a.real)
+print(a.imag)
+num=complex(1,2)
+print(num)
+num1=complex(1)
+print(num1)
+num2=complex()
+print(num2)
